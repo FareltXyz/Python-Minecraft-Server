@@ -40,7 +40,7 @@ else:
     print("| 3. exit")
     print("|")
     print("| by: Yuji Akken")
-    print("| github: github.com/Testerbens")
+    print("| github: github.com/yujiZky")
     print(f"| ip: {socket.gethostbyname(socket.gethostname())}")
     print("====================°    °======================")
     mcsvrmenu = input(" ")
@@ -63,7 +63,7 @@ else:
                    print("|")
                    print("| next Version soon.")
                    print("|                                  by:Yuji Akken")
-                   print("| 0. back          github: github.com/Testerbens")
+                   print("| 0. back          github: github.com/yujiZky")
                    print("====================°    °======================")
                    svrvrch = input(" ")
                    if svrvrch.isdigit():
@@ -77,7 +77,7 @@ else:
                                    print("| 1. 1.20.15")
                                    print("| 2. 1.20.1")
                                    print("|                                  by:Yuji Akken")
-                                   print("| 0. back          github: github.com/Testerbens")
+                                   print("| 0. back          github: github.com/yujiZky")
                                    print("====================°    °======================")
                                    input20 = input(" ")
                                    if input20.isdigit():
@@ -205,7 +205,7 @@ else:
                                     print("| 5. 1.19.11")
                                     print("| 6. 1.19.1")
                                     print("|                                 by: Yuji akken")
-                                    print("|                  github: github.com/Testerbens")
+                                    print("|                  github: github.com/yujiZky")
                                     print("| 0. back")
                                     print("====================°    °======================")
                                     sub19 = input(" ")
@@ -544,7 +544,7 @@ else:
                                 print("|")
                                 print("|")
                                 print("| by: yuji")
-                                print("| github: github.com/Testerbens     [0] back")
+                                print("| github: github.com/yujiZky        [0] back")
                                 print("====================°    °======================")
                                 subver18 = input(" ")
                                 if subver18.isdigit() :
@@ -773,7 +773,7 @@ else:
                               print("| [3] 1.17.31")
                               print("| [4] 1.17.11")
                               print("| [5] 1.17.2                            by: yuji")
-                              print("| [6] 1.17.1       github: github.com/Testerbens")
+                              print("| [6] 1.17.1          github: github.com/yujiZky")
                               print("====================°    °======================")
                               subver17 = input(" ")
                               if subver17.isdigit():
@@ -1099,7 +1099,7 @@ else:
                                    print("| [4] 1.16.100                          [0] Back")
                                    print("| [5] 1.16.40")
                                    print("| [6] 1.16.1                            by: yuji")
-                                   print("| [7] 1.16.0       github: github.com/Testerbens")
+                                   print("| [7] 1.16.0          github: github.com/yujiZky")
                                    print("====================°    °======================")
                                    subver16 = input(" ")
                                    if subver16.isdigit():
